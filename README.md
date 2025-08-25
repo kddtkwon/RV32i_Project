@@ -10,6 +10,10 @@ C코드를 통한 end to end 과정을 통해 프로그램 검증
 
 <img width="736" height="463" alt="image" src="https://github.com/user-attachments/assets/2c3b0d7e-e46d-4975-94a0-f45f5c979a1f" />
 
+
+<img width="1532" height="712" alt="image" src="https://github.com/user-attachments/assets/914a02ff-393c-468b-b78b-cb34c058d6bb" />
+
+
 위 다이어그램과 FSM차트를 따라 코드를 구현 
 자세한 내용은 별첨한 PDF를 참고
 
