@@ -7,3 +7,4 @@ RV32I의 모든 type 을 구현하는 프로젝트
 
 <img width="736" height="463" alt="image" src="https://github.com/user-attachments/assets/2c3b0d7e-e46d-4975-94a0-f45f5c979a1f" />
 
+위 다이어그램과 FSM차트를 따라 코드를 구현
