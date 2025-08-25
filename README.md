@@ -2,6 +2,9 @@
 
 RV32I의 모든 type 을 구현하는 프로젝트
 
+RV32I의 모든 명령어를 구현하고 vivado를 통해 검증,
+C코드를 통한 end to end 과정을 통해 프로그램 검증
+
 <img width="842" height="479" alt="image" src="https://github.com/user-attachments/assets/7d53dbd4-5961-459b-9f58-ea485a1cf50a" />
 
 
