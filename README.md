@@ -35,7 +35,8 @@ Instruction 구현
 
 R, I, S, B, U, J 타입 전체 구현
 
-<p align="center"> <img src="doc/block_diagram.png" width="500" alt="Block Diagram"/> </p>
+<img width="820" height="474" alt="image" src="https://github.com/user-attachments/assets/a094cf96-60f0-4e18-8eb0-e6375629d00f" />
+
 ✅ 명령어 검증
 Type	검증 내용
 R-Type	산술/논리 연산 확인
